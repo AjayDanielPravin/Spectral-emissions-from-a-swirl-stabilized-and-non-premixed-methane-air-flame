@@ -10,6 +10,7 @@ study aim to provide useful information for the reliable development and optimiz
 **CONTENTS**
 1. Final Report
 2. Experimental Setup Images
-3. Spectra for each configurations
-4. Excel data sheets
-5. Trend Plots
+3. Trial LPG flame test spectra + data
+4. Methane/ Air flame test spectra + data (3 configurations)
+5. Excel data sheets
+
