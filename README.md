@@ -11,6 +11,8 @@ study aim to provide useful information for the reliable development and optimiz
 1. Final Report
 2. Experimental Setup Images
 3. Trial LPG flame test spectra + data
-4. Methane/ Air flame test spectra + data (3 configurations)
-5. Excel data sheets
+4. Thorlabs Spectra (3 configurations)
+5. Labelled Excel Data
+6. Unlabelled Excel Data
+7. MATLAB Plots (3 configurations)
 
