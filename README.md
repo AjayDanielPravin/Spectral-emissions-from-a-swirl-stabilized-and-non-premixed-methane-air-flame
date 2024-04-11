@@ -1,8 +1,6 @@
 **Spectral emissions from a swirl-stabilized and non-premixed methane/air flame**
 
-Ajay Daniel Pravin//
-Advisor: Dr. Rajesh Sadanandan//
-Bachelor of Technology in Aerospace Engineering - Final Year Project//
+Ajay Daniel Pravin
 
 ABSTRACT:
 This project presents an investigation of the spectral emissions from a swirl-stabilized, non-premixed methane-air flame. The study was conducted to gain a better understanding
