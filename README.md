@@ -1,7 +1,5 @@
 **Spectral emissions from a swirl-stabilized and non-premixed methane/air flame**
 
-Ajay Daniel Pravin
-
 ABSTRACT:
 This project presents an investigation of the spectral emissions from a swirl-stabilized, non-premixed methane-air flame. The study was conducted to gain a better understanding
 of the flame characteristics and the spectral emissions of such a flame, which is commonly used in industrial combustion systems. The effects of swirl number and equivalence ratio
